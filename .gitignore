@@ -10,6 +10,10 @@ target/
 !**/src/test/**/target/
 .kotlin
 
+
+# Excel temp files
+~$*
+
 ### IntelliJ IDEA ###
 .idea/modules.xml
 .idea/jarRepositories.xml
